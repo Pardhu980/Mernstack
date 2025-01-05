@@ -1,0 +1,26 @@
+h1{
+    text-align:center;
+    font-weight:bolder;
+    text-decoration: red double underline;
+
+    
+}
+p{
+    text-align:justify;
+    font-weight:400;
+
+    
+}
+h2{
+    text-align:left;
+    font-weight:bolder;
+    text-decoration:green wavy underline;
+}
+h3{
+    text-align:center;
+    font-weight:bolder;
+    text-decoration: navy dotted overline;
+}
+a{
+    text-decoration:none ;
+}
