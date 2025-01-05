@@ -42,7 +42,7 @@ a{
     background-color:white;
 }
 
-.he{
+.he{               /* class selector*/
     text-align:center;
     background-color:yellow;
     text-decoration:black double underline;
